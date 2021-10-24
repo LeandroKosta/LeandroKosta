@@ -1,8 +1,10 @@
 ### Olá! Eu sou Leandro Kosta  👋
-### Hi! I'm Leandro Kosta  👋
 
-- 🌱 Atualmente estou estudando ...
-- 🌱 I am currently studying ...
+Meu Objetivo: Aprender a programar para melhorar ou facilitar a vida das pessoas, por meio da criação de softwares e aplicativos que possam resolver problemas reais da sociedade e tornar o mundo um lugar melhor para se viver.
+
+- 🌱 Atualmente estou estudando </br>
+=> 🤓 Full Stack na Blue Edtech - https://blueedtech.com.br/</br>
+=> 👨‍🎓 Bacharelado em Ciência da Computação na FAM - https://vemprafam.com.br/
 
  <div>
   <a href="https://github.com/LeandroKosta">
